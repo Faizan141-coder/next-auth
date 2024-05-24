@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button"
 
 const SettingsPage = async () => {
 
-    const session = await auth()
+  const session = await auth()
 
   return (
     <div>
